@@ -8,7 +8,7 @@
 
 ## 1. Giriş
 
-MedicineTracker ("Biz", "Bizim", "Uygulama"), kullanıcılarımızın gizliliğini korumayı taahhüt eder. Bu Gizlilik Politikası, uygulamamızı kullanırken toplanan, kullanılan ve korunan bilgileri açıklar.
+MedicineTracker, kullanıcılarımızın gizliliğini korumayı taahhüt eder. Bu Gizlilik Politikası, uygulamamızı kullanırken toplanan, kullanılan ve korunan bilgileri açıklar.
 
 Bu uygulama, kişisel sağlık bilgilerinizi (ilaç bilgileri, hatırlatıcılar) yerel olarak cihazınızda saklar ve hiçbir sunucuya göndermez.
 
