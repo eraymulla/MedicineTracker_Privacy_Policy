@@ -153,7 +153,7 @@ Politikanın güncel versiyonunu bu sayfadan takip edebilirsiniz.
 
 Gizlilik politikası ile ilgili sorularınız için:
 
-- **E-posta:** [İletişim bilgisi eklenecek]
+- **E-posta:** medicinetracker.dev@gmail.com
 - **Uygulama:** Ayarlar > Hakkında bölümünden iletişime geçebilirsiniz
 
 ---
